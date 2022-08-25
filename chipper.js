@@ -1,6 +1,7 @@
 /*
-Created by : Rijal Ghodi
-Date : August 25, 2022
+Created by Rijal Ghodi on August 25, 2022
+email : rijalghodi10@gmail.com
+github : https://github.com/rijalghodi
 
 This is a javascript code to solve cipher ROT13 problem.
 Cipher ROT13 is a common modern cipher, where the values of the letters 
